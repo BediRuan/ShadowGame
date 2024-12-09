@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d90ba6530d9bfda47abb4610956b2f44
+AssetOrigin:
+  serializedVersion: 1
+  productId: 189884
+  packageName: Modular First Person Controller
+  packageVersion: 1.0.1
+  assetPath: Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs
+  uploadId: 428261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - crosshairImage: {instanceID: 0}
+  - sprintBarBG: {instanceID: 0}
+  - sprintBar: {instanceID: 0}
+  - joint: {instanceID: 0}
+  - footstepAudioSource: {instanceID: 0}
+  - footstepClip: {fileID: 8300000, guid: b7c02f38f2785d548b4009beab390d37, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
